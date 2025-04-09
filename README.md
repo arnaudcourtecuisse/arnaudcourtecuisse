@@ -6,5 +6,4 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m @arnaudcourtecuisse
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on conversation design frameworks
+- 🌱 I’m currently working on a fork of thelifeengine
